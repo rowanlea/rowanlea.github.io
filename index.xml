@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edna West</title>
+    <link>https://rowanlea.github.io/</link>
+    <description>Recent content on Edna West</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Edna West</copyright>
+    <lastBuildDate>Thu, 26 Jan 2023 01:21:34 +0000</lastBuildDate><atom:link href="https://rowanlea.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://rowanlea.github.io/post/test/</link>
+      <pubDate>Thu, 26 Jan 2023 01:21:34 +0000</pubDate>
+      
+      <guid>https://rowanlea.github.io/post/test/</guid>
+      <description>This is now my test post</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rowanlea.github.io/post/about/</link>
+      <pubDate>Thu, 26 Jan 2023 01:14:01 +0000</pubDate>
+      
+      <guid>https://rowanlea.github.io/post/about/</guid>
+      <description>Gonna whack some of the old content in here :))</description>
+    </item>
+    
+  </channel>
+</rss>
