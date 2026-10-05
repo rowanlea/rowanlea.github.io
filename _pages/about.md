@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Building systems you can trust, and engineers who can influence.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me-2026.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>rowan.lea92@gmail.com</p>
+    <p><a href="https://www.youtube.com/@rowan-lea">My YouTube channel</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
