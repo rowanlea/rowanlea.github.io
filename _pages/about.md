@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Building systems you can trust, and engineers who can influence.
+subtitle: <i>Building systems you can trust, and engineers who can influence.</i>
 
 profile:
   align: right
   image: me-2026.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>rowan.lea92@gmail.com</p>
-    <p><a href="https://www.youtube.com/@rowan-lea">My YouTube channel</a></p>
+    <p style="text-align: center">rowan.lea92@gmail.com</p>
+    <p style="text-align: center"><a href="https://www.youtube.com/@rowan-lea">My YouTube channel</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
