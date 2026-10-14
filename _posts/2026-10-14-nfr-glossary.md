@@ -7,11 +7,10 @@ tags: nfr glossary list
 categories: nfr
 ---
 
-## Intro
-
 This post lists a fairly comprehensive list of Non Functional Requirements (NFRs), that I can relate back to in future blog posts. It's also useful as a stand alone piece, purely because it shows just how many different aspects of a system you may want to consider.
 
 NFRs are system quality attributes, rather than specific processes or isolated numbers. Instead, an NFR is typically measured and validated through a collection of concrete metrics, the observation of which can, and should, be automated wherever possible.
+
 
 ## The List
 
